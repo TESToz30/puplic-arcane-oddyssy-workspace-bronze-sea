@@ -1,0 +1,266 @@
+[Line 26244] [Output:5553]: [REMOTE EVENT] RobloxReplicatedStorage.IntegrityCheckProcessorKey2_LocalizationTableAnalyticsSender_LocalizationService
+[Line 26245] [Output:5553]: [REMOTE EVENT] RobloxReplicatedStorage.IntegrityCheckProcessorKey2_DynamicTranslationSender_LocalizationService
+[Line 26246] [Output:5553]: [REMOTE FUNCTION] RobloxReplicatedStorage.GetServerVersion
+[Line 26247] [Output:5553]: [REMOTE FUNCTION] RobloxReplicatedStorage.GetServerChannel
+[Line 26248] [Output:5553]: [REMOTE FUNCTION] RobloxReplicatedStorage.ExperienceChat.WhisperChat
+[Line 26249] [Output:5553]: [REMOTE EVENT] RobloxReplicatedStorage.NewPlayerCanManageDetails
+[Line 26250] [Output:5553]: [REMOTE EVENT] RobloxReplicatedStorage.UpdatePlayerProfileSettings
+[Line 26251] [Output:5553]: [REMOTE EVENT] RobloxReplicatedStorage.ShowFriendJoinedPlayerToast
+[Line 26252] [Output:5553]: [REMOTE EVENT] RobloxReplicatedStorage.CreateOrJoinParty
+[Line 26253] [Output:5553]: [REMOTE EVENT] RobloxReplicatedStorage.ExpChatFeatureValueChanged
+[Line 26254] [Output:5553]: [REMOTE EVENT] RobloxReplicatedStorage.ServerSideBulkPurchaseEvent
+[Line 26255] [Output:5553]: [REMOTE EVENT] RobloxReplicatedStorage.RequestDeviceCameraOrientationCapability
+[Line 26256] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.AssignLine
+[Line 26257] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.SendData
+[Line 26296] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Objects.OGMuscularBase.Head.GettingUp.CharacterSoundEvent
+[Line 26297] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Objects.OGMuscularBase.Head.FreeFalling.CharacterSoundEvent
+[Line 26298] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Objects.OGMuscularBase.Head.Landing.CharacterSoundEvent
+[Line 26299] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Objects.OGMuscularBase.Head.Running.CharacterSoundEvent
+[Line 40146] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Modules.Gerstner.Serial.ZoneManager.ReceiveParams
+[Line 43915] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Magic.DealAttackDamage
+[Line 43916] [Output:5553]: [REMOTE FUNCTION] ReplicatedStorage.RS.Remotes.Magic.SetSpellSlot
+[Line 43917] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Magic.UserStatusEffect
+[Line 43918] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Magic.StatusEffectFunction
+[Line 43919] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Misc.ClientReady
+[Line 43920] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Misc.LevelEffects
+[Line 43921] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Misc.Ragdoll
+[Line 43922] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Misc.ExhaustionToggle
+[Line 43923] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Misc.UpdateLastSeen
+[Line 43924] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Misc.UseStatReset
+[Line 43925] [Output:5553]: [REMOTE FUNCTION] ReplicatedStorage.RS.Remotes.Misc.TeleportToUsername
+[Line 43926] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Misc.SPFV
+[Line 43927] [Output:5553]: [REMOTE FUNCTION] ReplicatedStorage.RS.Remotes.Misc.SendMessage
+[Line 43928] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Misc.ToggleClimbing
+[Line 43929] [Output:5553]: [REMOTE FUNCTION] ReplicatedStorage.RS.Remotes.Misc.SPFile
+[Line 43930] [Output:5553]: [REMOTE FUNCTION] ReplicatedStorage.RS.Remotes.Misc.TurnIn
+[Line 43931] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Misc.DisplayAccessory
+[Line 43932] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Misc.OpenChest
+[Line 43933] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Misc.AddToTargetFilter
+[Line 43934] [Output:5553]: [REMOTE FUNCTION] ReplicatedStorage.RS.Remotes.Misc.SendGalleons
+[Line 43935] [Output:5553]: [REMOTE FUNCTION] ReplicatedStorage.RS.Remotes.Misc.GetSellItems
+[Line 43936] [Output:5553]: [REMOTE FUNCTION] ReplicatedStorage.RS.Remotes.Misc.TailorChange
+[Line 43937] [Output:5553]: [REMOTE FUNCTION] ReplicatedStorage.RS.Remotes.Misc.SendTrade
+[Line 43938] [Output:5553]: [REMOTE FUNCTION] ReplicatedStorage.RS.Remotes.Misc.PINGCHECK
+[Line 43939] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Misc.ChangeLevel
+[Line 43940] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Misc.GiveMagic
+[Line 43941] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Misc.ChangeEnchant
+[Line 43942] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Misc.ToolAction
+[Line 43943] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Misc.FishState
+[Line 43944] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Misc.OnTeleport
+[Line 43945] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Misc.RainEffect
+[Line 43946] [Output:5553]: [REMOTE FUNCTION] ReplicatedStorage.RS.Remotes.Misc.PartyService
+[Line 43947] [Output:5553]: [REMOTE FUNCTION] ReplicatedStorage.RS.Remotes.Misc.CreateClan
+[Line 43948] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Misc.ChestSetup
+[Line 43949] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Misc.NewCrew
+[Line 43950] [Output:5553]: [REMOTE FUNCTION] ReplicatedStorage.RS.Remotes.Misc.PlaceCamp
+[Line 43951] [Output:5553]: [REMOTE FUNCTION] ReplicatedStorage.RS.Remotes.Misc.EscapeWhirlpool
+[Line 43952] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Misc.Cooking
+[Line 43953] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Misc.PlacedMeal
+[Line 43954] [Output:5553]: [REMOTE FUNCTION] ReplicatedStorage.RS.Remotes.Misc.BuildItem
+[Line 43955] [Output:5553]: [REMOTE FUNCTION] ReplicatedStorage.RS.Remotes.Misc.GetServerRenown
+[Line 43956] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Misc.PosterUpdate
+[Line 43958] [Output:5553]: [REMOTE FUNCTION] ReplicatedStorage.RS.Remotes.Misc.GetServerTick
+[Line 43959] [Output:5553]: [REMOTE FUNCTION] ReplicatedStorage.RS.Remotes.Misc.FactionService
+[Line 43960] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Misc.StoryEvent
+[Line 43961] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Misc.EmptyBottle
+[Line 43962] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Misc.MiscDamage
+[Line 43963] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Misc.GUIP
+[Line 43964] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Misc.JewelCraft
+[Line 43965] [Output:5553]: [REMOTE FUNCTION] ReplicatedStorage.RS.Remotes.Misc.ModItem
+[Line 43966] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Misc.HandleAI
+[Line 43967] [Output:5553]: [REMOTE FUNCTION] ReplicatedStorage.RS.Remotes.Misc.ClaimSaveLoad
+[Line 43968] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Misc.LiftOperate
+[Line 43969] [Output:5553]: [REMOTE FUNCTION] ReplicatedStorage.RS.Remotes.Misc.UpdateKeybind
+[Line 43970] [Output:5553]: [REMOTE FUNCTION] ReplicatedStorage.RS.Remotes.Misc.DisarmSkillNote
+[Line 43971] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Misc.CustomizeAP
+[Line 43972] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Misc.DSPlayerAnnounce
+[Line 43973] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Misc.BirdKill
+[Line 43974] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Misc.BirdEffect
+[Line 43975] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Misc.StudioForceSave
+[Line 43976] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Misc.TUWipe
+[Line 43977] [Output:5553]: [REMOTE FUNCTION] ReplicatedStorage.RS.Remotes.Misc.GreaseWeapon
+[Line 43978] [Output:5553]: [REMOTE FUNCTION] ReplicatedStorage.RS.Remotes.Misc.RequestDQRefresh
+[Line 43979] [Output:5553]: [REMOTE FUNCTION] ReplicatedStorage.RS.Remotes.Misc.GetTSMusicVolume
+[Line 43980] [Output:5553]: [REMOTE FUNCTION] ReplicatedStorage.RS.Remotes.Misc.Banks.WithdrawBankItem
+[Line 43981] [Output:5553]: [REMOTE FUNCTION] ReplicatedStorage.RS.Remotes.Misc.Banks.UpgradeBank
+[Line 43982] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Misc.MinigameInteract
+[Line 43983] [Output:5553]: [REMOTE FUNCTION] ReplicatedStorage.RS.Remotes.Misc.PlaceCookingStation
+[Line 43984] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Misc.LureHit
+[Line 43985] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Misc.ClientUpdateDQData
+[Line 43986] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Misc.DarkSeaEnter
+[Line 43987] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Misc.BuyRepairKits
+[Line 43988] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Misc.DBRitual
+[Line 43989] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Misc.PromptInteraction
+[Line 43990] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.UI.UpdateSkill
+[Line 43991] [Output:5553]: [REMOTE FUNCTION] ReplicatedStorage.RS.Remotes.UI.GetDonated
+[Line 43992] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.UI.UpdateGalleons
+[Line 43993] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.UI.UseTome
+[Line 43994] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.UI.ToggleSetting
+[Line 43995] [Output:5553]: [REMOTE FUNCTION] ReplicatedStorage.RS.Remotes.UI.GetPlayerListInfo
+[Line 43996] [Output:5553]: [REMOTE FUNCTION] ReplicatedStorage.RS.Remotes.UI.GetInventoryItems
+[Line 43997] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.UI.UpdateVanitySetting
+[Line 43998] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.UI.UpdateHairSetting
+[Line 43999] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.UI.UpdateAnimationPack
+[Line 44000] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.UI.SellPrompt
+[Line 44001] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.UI.TitleUpdate
+[Line 44002] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.UI.TalentSwitch
+[Line 44003] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.UI.MagicChoice
+[Line 44004] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.UI.UpdateDiscoveredAreas
+[Line 44005] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.UI.UpdatePathTraveled
+[Line 44006] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.UI.TUSendGlobalMessage
+[Line 44007] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.UI.UpdateStoryline
+[Line 44008] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.UI.UpdateParty
+[Line 44009] [Output:5553]: [REMOTE FUNCTION] ReplicatedStorage.RS.Remotes.UI.GetSortMethod
+[Line 44010] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.UI.EndNameSelect
+[Line 44011] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.UI.UpdateCompletedQuests
+[Line 44012] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.UI.UpdateStats
+[Line 44013] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.UI.UpdateInsanity
+[Line 44014] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.UI.UpdateAts
+[Line 44015] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.UI.MagicPurchase
+[Line 44016] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.UI.UpdateNotoriety
+[Line 44017] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.UI.UpdateDVP
+[Line 44018] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.UI.SNCT
+[Line 44019] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.UI.NewUGC
+[Line 44020] [Output:5553]: [REMOTE FUNCTION] ReplicatedStorage.RS.Remotes.UI.OpenItem
+[Line 44021] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.UI.HecateEssence
+[Line 44022] [Output:5553]: [REMOTE FUNCTION] ReplicatedStorage.RS.Remotes.UI.GetOnlineClanMembers
+[Line 44023] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.UI.NotifyPrompt
+[Line 44024] [Output:5553]: [REMOTE FUNCTION] ReplicatedStorage.RS.Remotes.UI.RequestQuestData
+[Line 44025] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Combat.AddScar
+[Line 44026] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Combat.SharkHandler
+[Line 44027] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Combat.ChangeToolState
+[Line 44028] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Combat.CreateOpening
+[Line 44029] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Combat.SetWeaponEquipped
+[Line 44030] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Combat.WeaponHitEffect
+[Line 44031] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Combat.Arena.ReturnToQueue
+[Line 44032] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Combat.ClimbServer
+[Line 44034] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Combat.ChangeItemState
+[Line 44036] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Combat.UseMelee
+[Line 44038] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Combat.OnMeterUpdate
+[Line 44039] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Combat.UsePotion
+[Line 44040] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Combat.ClaimEffect
+[Line 44041] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Combat.Revive
+[Line 44042] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Combat.Dodge
+[Line 44043] [Output:5553]: [REMOTE FUNCTION] ReplicatedStorage.RS.Remotes.Combat.Attribute
+[Line 44045] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Combat.FallDamage
+[Line 44046] [Output:5553]: [REMOTE FUNCTION] ReplicatedStorage.RS.Remotes.Combat.ApplyLostKnowledge
+[Line 44068] [Output:5553]: [REMOTE FUNCTION] ReplicatedStorage.RS.Remotes.Dueling.AcceptDuel
+[Line 44069] [Output:5553]: [REMOTE FUNCTION] ReplicatedStorage.RS.Remotes.Dueling.SendDuelInvite
+[Line 44070] [Output:5553]: [REMOTE FUNCTION] ReplicatedStorage.RS.Remotes.Dueling.EditDuel
+[Line 44071] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Dueling.RulesEdited
+[Line 44072] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Chat.SystemMessage
+[Line 44073] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Chat.TypingEnded
+[Line 44074] [Output:5553]: [REMOTE EVENT] ReplicatedStorage.RS.Remotes.Factions.BuildLoaded
+[Line 106030] [Output:5553]: Total Remotes Found: 462
+[Line 106049] [Output:5553]: 60. TakeSideDamage -> ReplicatedStorage.RS.Remotes.Magic.TakeSideDamage
+[Line 106050] [Output:5553]: 61. UseSpell -> ReplicatedStorage.RS.Remotes.Magic.UseSpell
+[Line 106051] [Output:5553]: 62. DealAttackDamage -> ReplicatedStorage.RS.Remotes.Magic.DealAttackDamage
+[Line 106052] [Output:5553]: 65. SetSpellSlot -> ReplicatedStorage.RS.Remotes.Magic.SetSpellSlot
+[Line 106053] [Output:5553]: 68. EndCharge -> ReplicatedStorage.RS.Remotes.Magic.EndCharge
+[Line 106055] [Output:5553]: 75. WorldIndicator -> ReplicatedStorage.RS.Remotes.Misc.WorldIndicator
+[Line 106056] [Output:5553]: 78. SprintingToggle -> ReplicatedStorage.RS.Remotes.Misc.SprintingToggle
+[Line 106057] [Output:5553]: 92. SendMessage -> ReplicatedStorage.RS.Remotes.Misc.SendMessage
+[Line 106058] [Output:5553]: 94. SetCharName -> ReplicatedStorage.RS.Remotes.Misc.SetCharName
+[Line 106059] [Output:5553]: 98. CutsceneService -> ReplicatedStorage.RS.Remotes.Misc.CutsceneService
+[Line 106060] [Output:5553]: 99. SPFile -> ReplicatedStorage.RS.Remotes.Misc.SPFile
+[Line 106061] [Output:5553]: 100. SPClient -> ReplicatedStorage.RS.Remotes.Misc.SPFile.SPClient
+[Line 106062] [Output:5553]: 101. TurnIn -> ReplicatedStorage.RS.Remotes.Misc.TurnIn
+[Line 106063] [Output:5553]: 103. DisplayAccessory -> ReplicatedStorage.RS.Remotes.Misc.DisplayAccessory
+[Line 106064] [Output:5553]: 104. ToggleVanitySlot -> ReplicatedStorage.RS.Remotes.Misc.ToggleVanitySlot
+[Line 106065] [Output:5553]: 105. DrawbackLimb -> ReplicatedStorage.RS.Remotes.Misc.DrawbackLimb
+[Line 106066] [Output:5553]: 107. ReturnToMenu -> ReplicatedStorage.RS.Remotes.Misc.ReturnToMenu
+[Line 106067] [Output:5553]: 108. AddToTargetFilter -> ReplicatedStorage.RS.Remotes.Misc.AddToTargetFilter
+[Line 106068] [Output:5553]: 110. PaymentInteract -> ReplicatedStorage.RS.Remotes.Misc.PaymentInteract
+[Line 106069] [Output:5553]: 111. BuyItem -> ReplicatedStorage.RS.Remotes.Misc.BuyItem
+[Line 106070] [Output:5553]: 113. SellItems -> ReplicatedStorage.RS.Remotes.Misc.SellItems
+[Line 106071] [Output:5553]: 120. PINGCHECK -> ReplicatedStorage.RS.Remotes.Misc.PINGCHECK
+[Line 106072] [Output:5553]: 123. CompleteQuest -> ReplicatedStorage.RS.Remotes.Misc.CompleteQuest
+[Line 106073] [Output:5553]: 127. ChangeGalleons -> ReplicatedStorage.RS.Remotes.Misc.ChangeGalleons
+[Line 106074] [Output:5553]: 130. ToolAction -> ReplicatedStorage.RS.Remotes.Misc.ToolAction
+[Line 106075] [Output:5553]: 134. OnTeleport -> ReplicatedStorage.RS.Remotes.Misc.OnTeleport
+[Line 106076] [Output:5553]: 136. RainEffect -> ReplicatedStorage.RS.Remotes.Misc.RainEffect
+[Line 106077] [Output:5553]: 140. ClanService -> ReplicatedStorage.RS.Remotes.Misc.ClanService
+[Line 106078] [Output:5553]: 143. PlaceCamp -> ReplicatedStorage.RS.Remotes.Misc.PlaceCamp
+[Line 106079] [Output:5553]: 147. GetStoryline -> ReplicatedStorage.RS.Remotes.Misc.GetStoryline
+[Line 106080] [Output:5553]: 150. PlacedMeal -> ReplicatedStorage.RS.Remotes.Misc.PlacedMeal
+[Line 106081] [Output:5553]: 154. BuildItem -> ReplicatedStorage.RS.Remotes.Misc.BuildItem
+[Line 106082] [Output:5553]: 156. GetNetworkOwner -> ReplicatedStorage.RS.Remotes.Misc.GetNetworkOwner
+[Line 106083] [Output:5553]: 158. PlaceNote -> ReplicatedStorage.RS.Remotes.Misc.PlaceNote
+[Line 106084] [Output:5553]: 159. VoteNote -> ReplicatedStorage.RS.Remotes.Misc.VoteNote
+[Line 106085] [Output:5553]: 160. DyeItem -> ReplicatedStorage.RS.Remotes.Misc.DyeItem
+[Line 106086] [Output:5553]: 161. GetServerRenown -> ReplicatedStorage.RS.Remotes.Misc.GetServerRenown
+[Line 106087] [Output:5553]: 163. PosterUpdate -> ReplicatedStorage.RS.Remotes.Misc.PosterUpdate
+[Line 106089] [Output:5553]: 166. GetServerTick -> ReplicatedStorage.RS.Remotes.Misc.GetServerTick
+[Line 106090] [Output:5553]: 170. EmptyBottle -> ReplicatedStorage.RS.Remotes.Misc.EmptyBottle
+[Line 106091] [Output:5553]: 173. LearnScroll -> ReplicatedStorage.RS.Remotes.Misc.LearnScroll
+[Line 106092] [Output:5553]: 176. GUIP -> ReplicatedStorage.RS.Remotes.Misc.GUIP
+[Line 106093] [Output:5553]: 179. JewelSocket -> ReplicatedStorage.RS.Remotes.Misc.JewelSocket
+[Line 106094] [Output:5553]: 183. Loadout -> ReplicatedStorage.RS.Remotes.Misc.Loadout
+[Line 106095] [Output:5553]: 186. ReturnFromWar -> ReplicatedStorage.RS.Remotes.Misc.ReturnFromWar
+[Line 106096] [Output:5553]: 189. UpdateDirtAcc -> ReplicatedStorage.RS.Remotes.Misc.UpdateDirtAcc
+[Line 106097] [Output:5553]: 192. ConsumeSoap -> ReplicatedStorage.RS.Remotes.Misc.ConsumeSoap
+[Line 106098] [Output:5553]: 195. DisarmSkillNote -> ReplicatedStorage.RS.Remotes.Misc.DisarmSkillNote
+[Line 106099] [Output:5553]: 198. DSPlayerAnnounce -> ReplicatedStorage.RS.Remotes.Misc.DSPlayerAnnounce
+[Line 106100] [Output:5553]: 202. SelfSMDamage -> ReplicatedStorage.RS.Remotes.Misc.SelfSMDamage
+[Line 106101] [Output:5553]: 205. TriggerCutscene -> ReplicatedStorage.RS.Remotes.Misc.TriggerCutscene
+[Line 106102] [Output:5553]: 209. SetTSMusicVolume -> ReplicatedStorage.RS.Remotes.Misc.SetTSMusicVolume
+[Line 106103] [Output:5553]: 212. GetBankItems -> ReplicatedStorage.RS.Remotes.Misc.Banks.GetBankItems
+[Line 106104] [Output:5553]: 215. GetBankDrachma -> ReplicatedStorage.RS.Remotes.Misc.Banks.GetBankDrachma
+[Line 106105] [Output:5553]: 219. MagiusClientState -> ReplicatedStorage.RS.Remotes.Misc.MagiusClientState
+[Line 106106] [Output:5553]: 223. HotbarInitialized -> ReplicatedStorage.RS.Remotes.Misc.HotbarInitialized
+[Line 106107] [Output:5553]: 226. ClientUpdateDQData -> ReplicatedStorage.RS.Remotes.Misc.ClientUpdateDQData
+[Line 106109] [Output:5553]: 232. UseRepairKit -> ReplicatedStorage.RS.Remotes.Misc.UseRepairKit
+[Line 106110] [Output:5553]: 235. PromptInteraction -> ReplicatedStorage.RS.Remotes.Misc.PromptInteraction
+[Line 106111] [Output:5553]: 237. UpdateMagic -> ReplicatedStorage.RS.Remotes.UI.UpdateMagic
+[Line 106112] [Output:5553]: 241. Notification -> ReplicatedStorage.RS.Remotes.UI.Notification
+[Line 106113] [Output:5553]: 243. UpdateQuests -> ReplicatedStorage.RS.Remotes.UI.UpdateQuests
+[Line 106114] [Output:5553]: 245. TeleportUI -> ReplicatedStorage.RS.Remotes.UI.TeleportUI
+[Line 106115] [Output:5553]: 248. ToggleSetting -> ReplicatedStorage.RS.Remotes.UI.ToggleSetting
+[Line 106116] [Output:5553]: 252. GetPlayerListInfo -> ReplicatedStorage.RS.Remotes.UI.GetPlayerListInfo
+[Line 106117] [Output:5553]: 255. UpdateJailTime -> ReplicatedStorage.RS.Remotes.UI.UpdateJailTime
+[Line 106118] [Output:5553]: 259. UpdateVanitySetting -> ReplicatedStorage.RS.Remotes.UI.UpdateVanitySetting
+[Line 106119] [Output:5553]: 265. PaymentReceive -> ReplicatedStorage.RS.Remotes.UI.PaymentReceive
+[Line 106120] [Output:5553]: 269. TitleUpdate -> ReplicatedStorage.RS.Remotes.UI.TitleUpdate
+[Line 106121] [Output:5553]: 271. UpdateDonateUI -> ReplicatedStorage.RS.Remotes.UI.UpdateDonateUI
+[Line 106122] [Output:5553]: 273. ImbueChange -> ReplicatedStorage.RS.Remotes.UI.ImbueChange
+[Line 106123] [Output:5553]: 275. DeleteMarker -> ReplicatedStorage.RS.Remotes.UI.DeleteMarker
+[Line 106124] [Output:5553]: 279. NewQuestion -> ReplicatedStorage.RS.Remotes.UI.NewQuestion
+[Line 106125] [Output:5553]: 281. GetFishCaught -> ReplicatedStorage.RS.Remotes.UI.GetFishCaught
+[Line 106126] [Output:5553]: 285. CharacterFix -> ReplicatedStorage.RS.Remotes.UI.CharacterFix
+[Line 106127] [Output:5553]: 289. UpdateClan -> ReplicatedStorage.RS.Remotes.UI.UpdateClan
+[Line 106128] [Output:5553]: 290. Tutorial -> ReplicatedStorage.RS.Remotes.UI.Tutorial
+[Line 106129] [Output:5553]: 292. UpdateSorting -> ReplicatedStorage.RS.Remotes.UI.UpdateSorting
+[Line 106130] [Output:5553]: 293. GetSortMethod -> ReplicatedStorage.RS.Remotes.UI.GetSortMethod
+[Line 106131] [Output:5553]: 297. TrackQuest -> ReplicatedStorage.RS.Remotes.UI.TrackQuest
+[Line 106132] [Output:5553]: 300. AllocateSP -> ReplicatedStorage.RS.Remotes.UI.AllocateSP
+[Line 106133] [Output:5553]: 306. Reset -> ReplicatedStorage.RS.Remotes.UI.Reset
+[Line 106134] [Output:5553]: 308. UpdateSkill2 -> ReplicatedStorage.RS.Remotes.UI.UpdateSkill2
+[Line 106135] [Output:5553]: 310. UpdateNotoriety -> ReplicatedStorage.RS.Remotes.UI.UpdateNotoriety
+[Line 106136] [Output:5553]: 314. UpdateDVP -> ReplicatedStorage.RS.Remotes.UI.UpdateDVP
+[Line 106137] [Output:5553]: 317. GetUGCInfo -> ReplicatedStorage.RS.Remotes.UI.GetUGCInfo
+[Line 106138] [Output:5553]: 320. OpenItem -> ReplicatedStorage.RS.Remotes.UI.OpenItem
+[Line 106139] [Output:5553]: 325. ServerPrompt -> ReplicatedStorage.RS.Remotes.UI.ServerPrompt
+[Line 106140] [Output:5553]: 329. GetTitleInfo -> ReplicatedStorage.RS.Remotes.UI.GetTitleInfo
+[Line 106141] [Output:5553]: 332. EquipMagicCirclePack -> ReplicatedStorage.RS.Remotes.UI.EquipMagicCirclePack
+[Line 106142] [Output:5553]: 336. AddScar -> ReplicatedStorage.RS.Remotes.Combat.AddScar
+[Line 106143] [Output:5553]: 339. LoseRenown -> ReplicatedStorage.RS.Remotes.Combat.LoseRenown
+[Line 106144] [Output:5553]: 342. SharkHandler -> ReplicatedStorage.RS.Remotes.Combat.SharkHandler
+[Line 106145] [Output:5553]: 345. EndWeapon -> ReplicatedStorage.RS.Remotes.Combat.EndWeapon
+[Line 106146] [Output:5553]: 347. CreateOpening -> ReplicatedStorage.RS.Remotes.Combat.CreateOpening
+[Line 106147] [Output:5553]: 349. EndWeaponCharge -> ReplicatedStorage.RS.Remotes.Combat.EndWeaponCharge
+[Line 106148] [Output:5553]: 355. Queue -> ReplicatedStorage.RS.Remotes.Combat.Arena.Queue
+[Line 106152] [Output:5553]: 367. SetSkillSlot -> ReplicatedStorage.RS.Remotes.Combat.SetSkillSlot
+[Line 106153] [Output:5553]: 370. OnMeterUpdate -> ReplicatedStorage.RS.Remotes.Combat.OnMeterUpdate
+[Line 106154] [Output:5553]: 371. SwapSlot -> ReplicatedStorage.RS.Remotes.Combat.SwapSlot
+[Line 106155] [Output:5553]: 373. PotionHit -> ReplicatedStorage.RS.Remotes.Combat.PotionHit
+[Line 106156] [Output:5553]: 379. Revive -> ReplicatedStorage.RS.Remotes.Combat.Revive
+[Line 106157] [Output:5553]: 380. RGA -> ReplicatedStorage.RS.Remotes.Combat.RGA
+[Line 106158] [Output:5553]: 388. CitizenKillCredit -> ReplicatedStorage.RS.Remotes.Combat.CitizenKillCredit
+[Line 106159] [Output:5553]: 389. CanThiefRob -> ReplicatedStorage.RS.Remotes.Combat.CanThiefRob
+[Line 106160] [Output:5553]: 390. DealAnimalDamage -> ReplicatedStorage.RS.Remotes.Combat.DealAnimalDamage
+[Line 106161] [Output:5553]: 391. NWControl -> ReplicatedStorage.RS.Remotes.Combat.NWControl
+[Line 106177] [Output:5553]: 447. CreateDuel -> ReplicatedStorage.RS.Remotes.Dueling.CreateDuel
+[Line 106178] [Output:5553]: 452. EditDuel -> ReplicatedStorage.RS.Remotes.Dueling.EditDuel
+[Line 106179] [Output:5553]: 455. SystemMessage -> ReplicatedStorage.RS.Remotes.Chat.SystemMessage
+[Line 106180] [Output:5553]: 458. EntityMessage -> ReplicatedStorage.RS.Remotes.Chat.EntityMessage
+[Line 106181] [Output:5553]: 462. BLINK_RELIABLE_REMOTE -> ReplicatedStorage.RS.Remotes.BLINK_RELIABLE_REMOTE
