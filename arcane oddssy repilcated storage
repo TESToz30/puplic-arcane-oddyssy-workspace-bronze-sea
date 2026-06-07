@@ -159,6 +159,9 @@ Output:5553]: ReplicatedStorage.AssignLine
 [Output]: ReplicatedStorage.RS.Remotes.UI.FleetLogUpdate
 [Output]: ReplicatedStorage.RS.Remotes.UI.ModProcess
 [Output]: ReplicatedStorage.RS.Remotes.UI.ChangeProfessionTitle
+
+
+
 [Output]: ReplicatedStorage.RS.Remotes.Combat.UseAction
 [Output]: ReplicatedStorage.RS.Remotes.Combat.AddScar
 [Output]: ReplicatedStorage.RS.Remotes.Combat.BlockEffects
@@ -169,6 +172,7 @@ Output:5553]: ReplicatedStorage.AssignLine
 [Output]: ReplicatedStorage.RS.Remotes.Combat.ChangeToolState
 [Output]: ReplicatedStorage.RS.Remotes.Combat.UseWeapon
 [Output]: ReplicatedStorage.RS.Remotes.Combat.EndWeapon
+
 [Output]: ReplicatedStorage.RS.Remotes.Combat.DealWeaponDamage
 [Output]: ReplicatedStorage.RS.Remotes.Combat.CreateOpening
 [Output]: ReplicatedStorage.RS.Remotes.Combat.SetWeaponEquipped
@@ -196,14 +200,16 @@ Output:5553]: ReplicatedStorage.AssignLine
 [Output]: ReplicatedStorage.RS.Remotes.Combat.PotionHit
 [Output]: ReplicatedStorage.RS.Remotes.Combat.PotionClientEffect
 [Output]: ReplicatedStorage.RS.Remotes.Combat.ClaimEffect
-[Output]: ReplicatedStorage.RS.Remotes.Combat.UESC
-[Output]: ReplicatedStorage.RS.Remotes.Combat.DSD
+[Output]: ReplicatedStorage.RS.Remotes.Combat.a
+[Output]: ReplicatedStorage.RS.Remotes.Combat.DSD---I think stamina drain
 [Output]: ReplicatedStorage.RS.Remotes.Combat.Revive
-[Output]: ReplicatedStorage.RS.Remotes.Combat.RGA
+[Output]: ReplicatedStorage.RS.Remotes.Combat.RGA---Range other ship can see you i think
 [Output]: ReplicatedStorage.RS.Remotes.Combat.Dodge
 [Output]: ReplicatedStorage.RS.Remotes.Combat.UseSW
 [Output]: ReplicatedStorage.RS.Remotes.Combat.DealSWDamage
 [Output]: ReplicatedStorage.RS.Remotes.Combat.DealDamageBoatSW
+
+
 [Output]: ReplicatedStorage.RS.Remotes.Combat.SuperCharge
 [Output]: ReplicatedStorage.RS.Remotes.Combat.CitizenKillCredit
 [Output]: ReplicatedStorage.RS.Remotes.Combat.DealAnimalDamage
